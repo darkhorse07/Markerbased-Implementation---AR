@@ -34,5 +34,6 @@ Now that Unity is installed with the required version, below are the further ste
 13. Connect the required smartphone device (android/ios).
 14. Go to File -> Build Setting -> Build and Run. Save the apk file and wait to install it on your smartphone.
 15. Once the installation is complete, you can run the application.
-
+16. Print the GrannyMarker.jpg image from the project folder.
+17. Open the application and point the camrea to the granny image.
 
