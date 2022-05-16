@@ -18,18 +18,18 @@ Now that Unity is installed with the required version, below are the further ste
 10. After the project has been added, double click to open the porject.
 
 11. For Android:
-    11.1  Go to File -> Build Setting -> Android -> Switch Platform.
-    11.2  Go to Player Setting -> Player -> Other Settings -> Check Override Default Package Name.
-    11.3  Set the package name to com.joebloggs.arudemy.
-    11.4  The minimum API level should be set to 22 or higher and the targeted API level to 30.
-    11.5  The Scripting Backend should be set to IL2CPP with ARM64 enabled in the Target Architectures.
+    1.  Go to File -> Build Setting -> Android -> Switch Platform.
+    2.  Go to Player Setting -> Player -> Other Settings -> Check Override Default Package Name.
+    3.  Set the package name to com.joebloggs.arudemy.
+    4.  The minimum API level should be set to 22 or higher and the targeted API level to 30.
+    5.  The Scripting Backend should be set to IL2CPP with ARM64 enabled in the Target Architectures.
     
 12. For iOS:
-    12.1  Go to File -> Build Setting -> iOS -> Switch Platform.
-    12.2  Go to Player Setting -> Player -> Other Settings -> Check Override Default Package Name.
-    12.3  Set the package name to com.joebloggs.arudemy.
-    12.4  The minimum targeted iOS version should be set to 12.0 or higher and a Camera Usage Description as well as a Location Usage Description should be provided.
-    12.5  The Architecture should be set to ARM64.
+    1.  Go to File -> Build Setting -> iOS -> Switch Platform.
+    2.  Go to Player Setting -> Player -> Other Settings -> Check Override Default Package Name.
+    3.  Set the package name to com.joebloggs.arudemy.
+    4.  The minimum targeted iOS version should be set to 12.0 or higher and a Camera Usage Description as well as a Location Usage Description should be provided.
+    5.  The Architecture should be set to ARM64.
     
 13. Connect the required smartphone device (android/ios).
 14. Go to File -> Build Setting -> Build and Run. Save the apk file and wait to install it on your smartphone.
